@@ -61,3 +61,10 @@ This page contains decomposition tree shows the difference between budget and fo
 <p align="center">
   <img src="Analysis Page 3 (Decomposition).png" width=85%/>
 </p>
+
+</br>
+</br>
+
+<p align="center">
+  <img src="Plots.gif" width=85%/>
+</p>
